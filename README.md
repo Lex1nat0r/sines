@@ -1,4 +1,4 @@
-Sines
+Sines of the Father: Adventures in Triggernometry
 ===
 Sine wave-based SHMUP using the [Quintus](http://http://www.html5quintus.com/) game engine.
 
